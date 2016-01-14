@@ -1,0 +1,6 @@
+C:\Users\manabtawi\Desktop\Jordan Technical Community\GitHub\MutualSSLAuthWCF\MutualSSLAuthWCF\bin\MutualSSLAuthWCF.dll.config
+C:\Users\manabtawi\Desktop\Jordan Technical Community\GitHub\MutualSSLAuthWCF\MutualSSLAuthWCF\bin\MutualSSLAuthWCF.dll
+C:\Users\manabtawi\Desktop\Jordan Technical Community\GitHub\MutualSSLAuthWCF\MutualSSLAuthWCF\bin\MutualSSLAuthWCF.pdb
+C:\Users\manabtawi\Desktop\Jordan Technical Community\GitHub\MutualSSLAuthWCF\MutualSSLAuthWCF\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\manabtawi\Desktop\Jordan Technical Community\GitHub\MutualSSLAuthWCF\MutualSSLAuthWCF\obj\Debug\MutualSSLAuthWCF.dll
+C:\Users\manabtawi\Desktop\Jordan Technical Community\GitHub\MutualSSLAuthWCF\MutualSSLAuthWCF\obj\Debug\MutualSSLAuthWCF.pdb
